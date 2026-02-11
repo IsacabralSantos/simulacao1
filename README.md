@@ -1,3 +1,11 @@
-# simulacao1 👾
+# PROJETO EMPRESARIAL 💼
+[] descrição objetiva do projeto desenvolvido 
 
-*Aula 01 - Engenharia de Software :Atividade Prática — Criando Repositório*
+## PROBLEMA 
+[] especificar motivação da criação do produto
+
+## PÚBLICO 
+[] especificar para quem o produto é direcionado
+
+## OBJETIVO
+[] lista dos objetivos
